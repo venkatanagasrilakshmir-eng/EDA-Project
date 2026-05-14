@@ -1,4 +1,4 @@
-# EDA-Project
+
 # Exploratory Data Analysis (EDA) Project
 
 ## Project Objective
