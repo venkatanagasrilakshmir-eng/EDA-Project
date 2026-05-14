@@ -1,0 +1,42 @@
+Exploratory Data Analysis Report
+1. Introduction
+This project analyzes customer purchasing behavior using Exploratory Data Analysis (EDA) techniques.
+The objective is to uncover patterns, trends, and relationships between customer age, income, and spending score.
+2. Dataset Information
+Dataset contains:
+Customer ID
+Gender
+Age
+Annual Income
+Spending Score
+Total Records: 15
+3. Technologies Used
+Python
+Pandas
+Matplotlib
+Seaborn
+Jupyter Notebook
+4. Data Cleaning
+Performed:
+Missing value checking
+Data validation
+Statistical summaries
+5. Visualizations
+Correlation Heatmap
+Shows relationships between:
+Age
+Income
+Spending Score
+Distribution Plot
+Displays annual income distribution of customers.
+Scatter Plot
+Shows relationship between:
+Age
+Spending Score
+6. Key Insights
+Younger customers spend more.
+Spending behavior changes with age.
+Income affects spending patterns.
+Female customers show slightly higher spending.
+7. Conclusion
+EDA helps identify customer behavior trends and supports better business decision-making using data visualization and statistical analysis.
