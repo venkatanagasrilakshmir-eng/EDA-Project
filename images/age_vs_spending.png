@@ -1,0 +1,16 @@
+# Age vs Spending Score
+
+plt.figure(figsize=(8,5))
+
+sns.scatterplot(
+    x='Age',
+    y='Spending Score (1-100)',
+    hue='Gender',
+    data=df
+)
+
+plt.title("Age vs Spending Score")
+
+plt.savefig("../images/age_vs_spending.png")
+
+plt.show()
