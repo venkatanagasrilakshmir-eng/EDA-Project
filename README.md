@@ -19,9 +19,9 @@ Analyze customer purchasing behavior using Python.
 - Jupyter Notebook
 
 ## Visualizations
-- Correlation Heatmap
 - Distribution Plot
 - Scatter Plot
+- bargraph
 
 
 ## How to Run
