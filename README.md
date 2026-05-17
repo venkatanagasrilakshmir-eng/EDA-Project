@@ -30,14 +30,9 @@ Analyze customer purchasing behavior using Python.
 pip install -r requirements.txt
 python src/eda.py
 ```
-
-<img width="720" height="714" alt="57104" src="https://github.com/user-attachments/assets/c662f136-0c80-42e6-bbec-f4e29cf0bf42" />
-<img width="720" height="514" alt="57116" src="https://github.com/user-attachments/assets/c6f3f6f2-74a8-4132-b0bb-d647a234116c" />
-<img width="720" height="386" alt="57113" src="https://github.com/user-attachments/assets/39e48875-e0db-4adc-8a1f-6cf8fed4c19c" />
-<img width="720" height="481" alt="57110" src="https://github.com/user-attachments/assets/15a99f7a-9426-4db7-beed-12e39feb5eb0" />
-<img width="720" height="599" alt="57107" src="https://github.com/user-attachments/assets/13fd6efa-9220-452c-8fdd-35714c2610c5" />
-
-
+<img width="622" height="891" alt="57936" src="https://github.com/user-attachments/assets/5b234cea-6429-4f73-989b-d601e5b8215e" />
+<img width="599" height="424" alt="57933" src="https://github.com/user-attachments/assets/d2bf4db2-023f-4ab3-8690-d3c964ffe286" />
+<img width="618" height="434" alt="57930" src="https://github.com/user-attachments/assets/a55b9bfc-b6b4-40d3-a5ea-a920477ba447" />
 ## Key Insights
 - Young customers spend more.
 - Spending behavior depends on income.
